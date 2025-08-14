@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Srushti Kulkarni  
+# Hi there, I'm Srushti Kulkarni  
 
-💻 **Aspiring Software Developer | Data Enthusiast | Problem Solver**  
-🌟 Passionate about building impactful solutions through **Java, Spring Boot, SQL, AWS, Power BI, Python for Data Analytics, and AI/ML**.  
-🎯 Currently serving as **Vice President** at MLSC Club.  
+**Aspiring Software Developer | Data Enthusiast | Problem Solver**  
+Passionate about building impactful solutions through **Java, Spring Boot, SQL, AWS, Power BI, Python for Data Analytics, and AI/ML**.  
+Currently serving as **Vice President** at MLSC Club.  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-- 🌱 I’m currently learning **Advanced Java + Spring Boot Projects** and **Cloud Deployments with AWS**  
-- 📊 I create **interactive dashboards** using **Power BI** for data-driven decision-making  
-- 🤖 Exploring **AI/ML** for predictive analytics and automation  
-- 💬 Ask me about **Java + DSA, Spring Boot, SQL, AWS, Power BI, Python for Data Analytics, AI/ML**  
+- I’m currently learning **Advanced Java + Spring Boot Projects** and **Cloud Deployments with AWS**  
+- I create **interactive dashboards** using **Power BI** for data-driven decision-making  
+- Exploring **AI/ML** for predictive analytics and automation  
+- Ask me about **Java + DSA, Spring Boot, SQL, AWS, Power BI, Python for Data Analytics, AI/ML**  
 
 ---
 
